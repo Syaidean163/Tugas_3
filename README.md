@@ -1,4 +1,5 @@
 perbedaan arsitektur antara sistem operasi Linux dan Windows:
+
 **1. Kernel:**
 Linux: Menggunakan kernel monolitik atau microkernel yang dapat dikonfigurasi. Kernel monolitik menggabungkan semua komponen sistem operasi ke dalam satu executable, sedangkan microkernel memisahkan komponen menjadi beberapa bagian. Fleksibilitas tinggi dalam memilih dan mengkonfigurasi kernel adalah salah satu kekuatan Linux.
 Windows: Menggunakan kernel hibrida yang menggabungkan elemen monolitik dan microkernel. Kernel Windows lebih terintegrasi dan kurang modular dibandingkan Linux.
